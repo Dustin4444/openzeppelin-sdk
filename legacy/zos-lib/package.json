@@ -101,6 +101,6 @@
     "tmp": "^0.0.33",
     "truffle": "^5.0.5",
     "ts-node": "^7.0.1",
-    "typescript": "^3.2.2"
+    "typescript": "^5.9.2"
   }
 }
