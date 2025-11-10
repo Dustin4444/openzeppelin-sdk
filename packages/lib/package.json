@@ -87,7 +87,7 @@
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "ganache-core": "^2.5.1",
+    "ganache-core": "^2.13.2",
     "mocha": "^6.2.2",
     "mock-dependency": "file:../../tests/mocks/mock-dependency",
     "mock-solc-0.6": "file:../../tests/mocks/mock-solc-0.6",
