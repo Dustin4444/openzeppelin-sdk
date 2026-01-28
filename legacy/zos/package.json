@@ -96,8 +96,8 @@
     "solc-wrapper": "^0.5.8",
     "solidity-parser-antlr": "^0.4.2",
     "spinnies": "^0.3.0",
-    "truffle-config": "1.1.2",
-    "web3": "1.0.0-beta.37",
+    "truffle-config": "1.1.20",
+    "web3": "1.2.0",
     "zos-lib": "^2.4.3"
   },
   "devDependencies": {
@@ -112,7 +112,7 @@
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^2.0.2",
     "chai-string": "^1.5.0",
-    "eslint": "^5.16.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-prettier": "^3.1.0",
     "ganache-cli": "^6.3.0",
@@ -128,10 +128,10 @@
     "prettier": "^1.17.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "sinon": "^6.1.4",
+    "sinon": "^16.1.2",
     "sinon-chai": "^3.2.0",
     "truffle": "^5.0.5",
-    "ts-node": "^7.0.1",
+    "ts-node": "^8.1.1",
     "typescript": "^3.2.2"
   }
 }
