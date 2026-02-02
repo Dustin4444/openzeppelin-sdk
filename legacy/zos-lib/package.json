@@ -72,7 +72,7 @@
     "semver": "^5.5.1",
     "spinnies": "^0.4.3",
     "truffle-flattener": "^1.4.0",
-    "web3": "1.0.0-beta.37",
+    "web3": "1.2.0",
     "web3-utils": "1.0.0-beta.37"
   },
   "devDependencies": {
@@ -85,7 +85,7 @@
     "chai-bignumber": "^2.0.2",
     "chai-string": "^1.5.0",
     "coveralls": "^3.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-prettier": "^3.1.0",
     "ganache-cli": "^6.4.3",
