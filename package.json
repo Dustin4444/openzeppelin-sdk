@@ -24,7 +24,7 @@
     "prepare": "yarn --cwd bootstrap && lerna run prepare"
   },
   "devDependencies": {
-    "lerna": "^3.13.4",
+    "lerna": "^6.5.0",
     "mock-stdlib-root": "file:./packages/cli/mocks/mock-stdlib",
     "@openzeppelin/docs-utils": "^0.1.0",
     "yarn": "^1.17.3"
