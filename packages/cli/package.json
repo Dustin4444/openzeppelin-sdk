@@ -92,7 +92,7 @@
     "typechain-target-truffle": "^1.0.1",
     "typechain-target-web3-v1": "^1.0.1",
     "underscore": "^1.9.1",
-    "uuid": "^3.3.3",
+    "uuid": "^14.0.0",
     "web3": "1.2.11",
     "web3-eth": "1.2.11",
     "web3-eth-contract": "1.2.11",
